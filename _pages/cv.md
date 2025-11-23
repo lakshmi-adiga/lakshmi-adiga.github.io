@@ -41,6 +41,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+<!-- Commented out: Publications and Talks sections hidden per hide-only change request
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -52,6 +53,7 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+-->
   
 Teaching
 ======
