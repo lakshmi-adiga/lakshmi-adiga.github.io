@@ -23,7 +23,7 @@ repository               : "lakshmi-adiga/lakshmi-adiga.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lakshmi.png"
   name             : "Lakshmi Adiga"
   pronouns         : # example: "she/her"  
   bio              : "Electrical and Computer Engineering @ Carnegie Mellon University"
