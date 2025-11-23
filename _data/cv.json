@@ -1,68 +1,40 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
+    "name": "Lakshmi Adiga",
+    "email": "ladiga@andrew.cmu.edu",
+    "phone": "971-470-1236",
+    "website": "https://lakshmi-adiga.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
-    },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=-ZjUwaAAAAAJ&hl=en&inst=3203679203499159833&oi=ao"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0007-6591-3504"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "lakshmi-adiga",
+        "url": "https://github.com/lakshmi-adiga"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Carnegie Mellon University",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Bachelor's of Science",
+      "startDate": "Aug 2022",
+      "endDate": "May 2026",
+      "gpa": 3.85
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "interests": ["Cybersecurity", "Applied AI in Cybersecurity"],
   "references": [],
   "publications": [
     {
