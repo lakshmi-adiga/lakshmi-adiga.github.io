@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
 I'm a researcher and engineering focused on building autonomous cybersecurity systems that reason over complex networks. I work at the intersection of AI agents, systems security, and large-scale cyber-range engineering, developing frameworks that help AI attackers and defenders operate safely and reliably in realistic environments.
 
 I’m currently an undergraduate researcher at Carnegie Mellon University, working with CMU CyLab and the Space Robotics Group. I co-developed Incalmo, the first system that enables LLMs to autonomously execute multi-stage cyber operations on enterprise networks, and I am now designing extensible defensive architectures and deception-aware evaluation benchmarks for AI-driven security.
